@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+<image>
+	<name>Kodi Headless</name>
+	<repo>nicjo814/docker-kodi-headless</repo>
+	<desc>Headless docker image for running Kodi server</desc>
+	<category>Multimedia</category>
+	<imageurl>kodi.png</imageurl>
+</image>
+<image>
+	<name>Sickrage</name>
+	<repo>needo/sickrage</repo>
+	<desc>Searches TheTVDB and TVRage for shows</desc>
+	<category>Multimedia</category>
+	<imageurl>sickrage.png</imageurl>
+</image>
+</images>
