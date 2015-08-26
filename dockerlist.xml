@@ -17,7 +17,7 @@
 <image>
 	<name>Emby</name>
 	<repo>emby/embyserver/</repo>
-	<desc>Emby Server is a home media server </desc>
+	<desc>Emby Server is a home media server</desc>
 	<category>Multimedia</category>
 	<imageurl>emby1.png</imageurl>
 </image>
