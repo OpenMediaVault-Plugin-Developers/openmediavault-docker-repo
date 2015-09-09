@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <images>
 <image>
+	<name>SABnzbd</name>
+    <repo>linuxserver/sabnzbd</repo>
+	<desc>SABnzbd is an Open Source Binary Newsreader written in Python</desc>
+	<category>Downloader</category>
+	<imageurl>sabnzbd.png</imageurl>
+</image>
+<image>
 	<name>Kodi Headless</name>
 	<repo>nicjo814/docker-kodi-headless</repo>
 	<desc>Headless docker image for running Kodi server</desc>
