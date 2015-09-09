@@ -21,4 +21,11 @@
 	<category>Multimedia</category>
 	<imageurl>emby1.png</imageurl>
 </image>
+<image>
+	<name>Couchpotato</name>
+    <repo>linuxserver/couchpotato</repo>
+	<desc>Download movies automatically, easily and in the best quality as soon as they are available</desc>
+	<category>Multimedia</category>
+    <imageurl>couchpotato.png</imageurl>
+</image>
 </images>
