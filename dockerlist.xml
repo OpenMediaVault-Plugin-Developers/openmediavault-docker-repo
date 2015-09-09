@@ -9,7 +9,7 @@
 </image>
 <image>
 	<name>Sickrage</name>
-	<repo>needo/sickrage</repo>
+    <repo>nicjo814/docker-sickrage</repo>
 	<desc>Searches TheTVDB and TVRage for shows</desc>
 	<category>Multimedia</category>
 	<imageurl>sickrage.png</imageurl>
