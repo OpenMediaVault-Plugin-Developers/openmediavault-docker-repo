@@ -8,6 +8,13 @@
 	<imageurl>sabnzbd.png</imageurl>
 </image>
 <image>
+	<name>rTorrent</name>
+    <repo>diameter/rtorrent-rutorrent</repo>
+	<desc>rTorrent is a text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix</desc>
+	<category>Downloader</category>
+	<imageurl>rtorrent.png</imageurl>
+</image>
+<image>
 	<name>Kodi Headless</name>
 	<repo>nicjo814/docker-kodi-headless</repo>
 	<desc>Headless docker image for running Kodi server</desc>
