@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <images>
 <image>
+	<name>SCM-Manager</name>
+    <repo>slobberbone/docker-scm-manager</repo>
+	<desc>The easiest way to share and manage your Git, Mercurial and Subversion repositories over http</desc>
+	<category>Development</category>
+	<imageurl>scm.png</imageurl>
+</image>
+<image>
 	<name>SABnzbd</name>
     <repo>linuxserver/sabnzbd</repo>
 	<desc>SABnzbd is an Open Source Binary Newsreader written in Python</desc>
@@ -15,6 +22,20 @@
 	<imageurl>rtorrent.png</imageurl>
 </image>
 <image>
+	<name>Couchpotato</name>
+    <repo>linuxserver/couchpotato</repo>
+	<desc>Download movies automatically, easily and in the best quality as soon as they are available</desc>
+	<category>Multimedia</category>
+    <imageurl>couchpotato.png</imageurl>
+</image>
+<image>
+	<name>Emby</name>
+	<repo>emby/embyserver</repo>
+	<desc>Emby Server is a home media server</desc>
+	<category>Multimedia</category>
+	<imageurl>emby1.png</imageurl>
+</image>
+<image>
 	<name>Kodi Headless</name>
 	<repo>nicjo814/docker-kodi-headless</repo>
 	<desc>Headless docker image for running Kodi server</desc>
@@ -27,19 +48,5 @@
 	<desc>Searches TheTVDB and TVRage for shows</desc>
 	<category>Multimedia</category>
 	<imageurl>sickrage.png</imageurl>
-</image>
-<image>
-	<name>Emby</name>
-	<repo>emby/embyserver</repo>
-	<desc>Emby Server is a home media server</desc>
-	<category>Multimedia</category>
-	<imageurl>emby1.png</imageurl>
-</image>
-<image>
-	<name>Couchpotato</name>
-    <repo>linuxserver/couchpotato</repo>
-	<desc>Download movies automatically, easily and in the best quality as soon as they are available</desc>
-	<category>Multimedia</category>
-    <imageurl>couchpotato.png</imageurl>
 </image>
 </images>
