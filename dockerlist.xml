@@ -43,6 +43,13 @@
 	<imageurl>kodi.png</imageurl>
 </image>
 <image>
+	<name>Sickbeard</name>
+    <repo>slobberbone/docker-sickbeard-fr</repo>
+	<desc>Docker image for Sickbeard with French and English audio language</desc>
+	<category>Multimedia</category>
+	<imageurl>sickbeard.png</imageurl>
+</image>
+<image>
 	<name>Sickrage</name>
     <repo>nicjo814/docker-sickrage</repo>
 	<desc>Searches TheTVDB and TVRage for shows</desc>
