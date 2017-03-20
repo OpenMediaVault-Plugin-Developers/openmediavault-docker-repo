@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+
+<image>
+	<name>Plex</name>
+    <repo>linuxserver/plex</repo>
+	<desc>Plex organizes video, music and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices</desc>
+	<category>Multimedia</category>
+	<imageurl>plex.png</imageurl>
+</image>
+<image>
+	<name>Emby</name>
+	<repo>emby/embyserver</repo>
+	<desc>Emby Server is a home media server built using popular open source technologies</desc>
+	<category>Multimedia</category>
+	<imageurl>emby1.png</imageurl>
+</image>
+<image>
+	<name>Kodi Headless</name>
+	<repo>nicjo814/docker-kodi-headless</repo>
+	<desc>Headless docker image for running Kodi server</desc>
+	<category>Multimedia</category>
+	<imageurl>kodi.png</imageurl>
+</image>
+<image>
+	<name>Couchpotato</name>
+    <repo>linuxserver/couchpotato</repo>
+	<desc>Download movies automatically, easily and in the best quality as soon as they are available</desc>
+	<category>Multimedia</category>
+    <imageurl>couchpotato.png</imageurl>
+</image>
+<image>
+	<name>Sonarr</name>
+    <repo>linuxserver/sonarr</repo>
+	<desc>Sonarr (formerly NZBdrone) is a PVR for usenet and bittorrent users</desc>
+	<category>Multimedia</category>
+	<imageurl>sonarr.png</imageurl>
+</image>
+<image>
+	<name>Sickrage</name>
+    <repo>linuxserver/sickrage</repo>
+	<desc>Searches TheTVDB and TVRage for shows</desc>
+	<category>Multimedia</category>
+	<imageurl>sickrage.png</imageurl>
+</image>
+<image>
+	<name>Sickbeard</name>
+    <repo>slobberbone/docker-sickbeard-fr</repo>
+	<desc>Docker image for Sickbeard with French and English audio language</desc>
+	<category>Multimedia</category>
+	<imageurl>sickbeard.png</imageurl>
+</image>
+<image>
+	<name>Deluge</name>
+    <repo>linuxserver/deluge</repo>
+	<desc>Deluge is a lightweight, Free Software, cross-platform BitTorrent client</desc>
+	<category>Downloader</category>
+	<imageurl>deluge.png</imageurl>
+</image>
+<image>
+	<name>Transmission</name>
+    <repo>linuxserver/transmission</repo>
+	<desc>Transmission is a rich and lightweight BitTorrent client with encryption, web UI, peer exchange, magnet links, DHT, µTP and more</desc>
+	<category>Downloader</category>
+	<imageurl>transmission.png</imageurl>
+</image>
+<image>
+	<name>rTorrent</name>
+    <repo>diameter/rtorrent-rutorrent</repo>
+	<desc>rTorrent is a text-based ncurses BitTorrent client written in C++, based on the libTorrent libraries for Unix</desc>
+	<category>Downloader</category>
+	<imageurl>rtorrent.png</imageurl>
+</image>
+<image>
+	<name>SABnzbd</name>
+    <repo>linuxserver/sabnzbd</repo>
+	<desc>SABnzbd is an Open Source Binary Newsreader written in Python</desc>
+	<category>Downloader</category>
+	<imageurl>sabnzbd.png</imageurl>
+</image>
+<image>
+	<name>SCM-Manager</name>
+    <repo>slobberbone/docker-scm-manager</repo>
+	<desc>The easiest way to share and manage your Git, Mercurial and Subversion repositories over http</desc>
+	<category>Development</category>
+	<imageurl>scm.png</imageurl>
+</image>
+<image>
+	<name>Crashplan</name>
+    <repo>jrcs/crashplan</repo>
+	<desc>CrashPlan is a backup software for endpoint devices. It runs in the background of a device, providing constant backup to cloud or other devices.</desc>
+	<category>Backup</category>
+	<imageurl>crashplan.png</imageurl>
+</image>
+
+</images>
